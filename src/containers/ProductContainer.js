@@ -7,3 +7,5 @@ const ProductContainer = () => {
   </div>
   )
 }
+
+export default ProductContainer
