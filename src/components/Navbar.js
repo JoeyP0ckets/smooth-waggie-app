@@ -19,16 +19,16 @@ const Navbar = () => {
           </div>
           {/* <Switch>
             <Route exact path="/">
-               <Bio/>
+              <Home/>
             </Route>
-            <Route exact path="/GuitarArchives">
-             <GuitarContainer/>
+            <Route exact path="/About">
+              <About/>
             </Route>
-            <Route exact path="/Demos">
-             <Demos/>
+            <Route exact path="/Products">
+              <Products/>
             </Route>
-            <Route exact path="/Workshop">
-             <Workshop/>
+            <Route exact path="/Reviews">
+              <Reviews/>
             </Route>
           </Switch> */}
           
