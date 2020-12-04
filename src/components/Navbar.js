@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <Router>
           <div className="navbar-row">
-          <h1 className="bio-text">Smooth Waggie LTD</h1>
+          <h1 className="navbar-logo">Smooth Waggie LTD</h1>
           <Link to="/">Home</Link>&nbsp;&nbsp;&nbsp;
           <Link to="/About">About</Link>&nbsp;&nbsp;&nbsp;
           <Link to="/Products">Products</Link>&nbsp;&nbsp;&nbsp;
