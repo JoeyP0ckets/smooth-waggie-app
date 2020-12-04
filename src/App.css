@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-row {
+    justify-content: center;
+    background-image: url(https://www.ers.usda.gov/media/10607/june20_feature_olson_photo.jpg?format=jpg&quality=85);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
